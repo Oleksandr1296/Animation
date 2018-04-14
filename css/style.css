@@ -1,7 +1,6 @@
 * {
 	margin: 0;
 	padding: 0;
-
 }
 body {
 	font-family: "Museo Sans Cyrl",sans-serif;
@@ -64,13 +63,10 @@ a {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-weight:600;
-
 }
 .curor-power_desc {
 	background: #fff;
 }
-
-
 .curor-power:hover {
 	transition: cubic-bezier(.165,.84,.44,1) 800ms;
 	transform:  translateY(-10px); 
